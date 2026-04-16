@@ -6,29 +6,44 @@ This project focuses on analyzing air quality data in India using Data Science t
 
 
 🎯 Objectives
+
 Analyze air quality across different locations
 Identify pollution trends over time
 Understand key factors affecting air quality
 Build a Python-based data analysis workflow
 
 🛠 Tech Stack
+
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn
 
 📊 Exploratory Data Analysis
+
 Location-wise pollution comparison
+
 Time-based trend analysis
+
 Pollutant distribution analysis
+
 Correlation heatmap
+
 Data visualization using graphs
 
 📈 Key Insights
+
 Air quality varies significantly across cities
+
 Certain pollutants dominate in specific regions
+
 Seasonal trends affect pollution levels
+
 Visualization helps understand environmental patterns
+
 
 🤖 Machine Learning Model
 Model Used: Regression Model
