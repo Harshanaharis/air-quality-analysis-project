@@ -46,14 +46,22 @@ Visualization helps understand environmental patterns
 
 
 🤖 Machine Learning Model
+
 Model Used: Regression Model
+
 Purpose: Predict air quality index (AQI)
+
 Evaluation Metrics: R² Score, MAE, RMSE
 
+
 📁 Project Structure
+
 air_quality_analysis.py → Main Python code
+
 india_air_quality_12000.csv → Dataset
+
 README.md → Project documentation
 
 💡 Conclusion
+
 This project demonstrates how data science and machine learning can be applied to environmental datasets. It helps in analyzing air quality trends and supports better decision-making for pollution control.
